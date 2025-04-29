@@ -1,0 +1,1373 @@
+exercise,weight,reps,cardio_duration,date,muscle_targeted
+Pull Ups,1.0,7.0,,02/05/24,Mix
+Pull Ups,1.0,3.0,,02/05/24,Mix
+Push Ups,1.0,10.0,,02/05/24,Mix
+Push Ups,1.0,4.0,,02/05/24,Mix
+Bench Press,1.0,12.0,,02/05/24,Mix
+Bench Press,2.5,4.0,,02/05/24,Mix
+Lat Pull,15.0,10.0,,02/05/24,Mix
+Lat Pull,25.0,5.0,,02/05/24,Mix
+Cross Trainer,,,10.0,02/05/24,Mix
+Pull Ups,1.0,5.0,,03/05/24,Mix
+Pull Ups,1.0,3.0,,03/05/24,Mix
+Push Ups,1.0,10.0,,03/05/24,Mix
+Push Ups,1.0,10.0,,03/05/24,Mix
+Dumbbell Curl,2.5,12.0,,03/05/24,Mix
+Dumbbell Curl,5.0,10.0,,03/05/24,Mix
+Peck Fly,15.0,10.0,,03/05/24,Mix
+Peck Fly,25.0,5.0,,03/05/24,Mix
+Tredmil,,,10.0,03/05/24,Mix
+Pull Ups,1.0,8.0,,04/05/24,Mix
+Pull Ups,1.0,6.0,,04/05/24,Mix
+Push Ups,1.0,15.0,,04/05/24,Mix
+Push Ups,1.0,15.0,,04/05/24,Mix
+Shoulder Press,5.0,12.0,,04/05/24,Mix
+Shoulder Press,7.5,5.0,,04/05/24,Mix
+Overhead Extension,5.0,15.0,,04/05/24,Mix
+Overhead Extension,10.0,5.0,,04/05/24,Mix
+Lateral Raise,5.0,15.0,,04/05/24,Mix
+Lateral Raise,10.0,9.0,,04/05/24,Mix
+Cycle,,,10.0,04/05/24,Mix
+Pull Ups,1.0,10.0,,05/05/24,Mix
+Pull Ups,1.0,12.0,,05/05/24,Mix
+Push Ups,1.0,15.0,,05/05/24,Mix
+Push Ups,1.0,15.0,,05/05/24,Mix
+Hack squats,10.0,12.0,,05/05/24,Mix
+Hack squats,15.0,10.0,,05/05/24,Mix
+Lat Pull,15.0,10.0,,05/05/24,Mix
+Lat Pull,25.0,5.0,,05/05/24,Mix
+Seated calf raises,5.0,15.0,,05/05/24,Mix
+Seated calf raises,10.0,10.0,,05/05/24,Mix
+Jumping Jacks,1.0,30.0,,05/05/24,Mix
+Jumping Jacks,1.0,30.0,,05/05/24,Mix
+Pull Ups,1.0,10.0,,08/05/24,Chest
+Pull Ups,1.0,10.0,,08/05/24,Chest
+Push Ups,1.0,5.0,,08/05/24,Chest
+Push Ups,1.0,4.0,,08/05/24,Chest
+Cable Crossover,5.0,10.0,,08/05/24,Chest
+Cable Crossover,6.5,7.0,,08/05/24,Chest
+Bench Press,1.0,10.0,,08/05/24,Chest
+Bench Press,5.0,7.0,,08/05/24,Chest
+Peck Fly,15.0,10.0,,08/05/24,Chest
+Peck Fly,25.0,7.0,,08/05/24,Chest
+Cross Trainer,,,10.0,08/05/24,Chest
+Pull Ups,1.0,10.0,,09/05/24,Back
+Pull Ups,1.0,10.0,,09/05/24,Back
+Hyperextensions,1.0,10.0,,09/05/24,Back
+Hyperextensions,5.0,10.0,,09/05/24,Back
+Lat pulldown,12.5,12.0,,09/05/24,Back
+Lat pulldown,15.0,8.0,,09/05/24,Back
+Close grip lat pulldown,10.0,12.0,,09/05/24,Back
+Close grip lat pulldown,12.5,5.0,,09/05/24,Back
+Row machine,15.0,10.0,,09/05/24,Back
+Row machine,25.0,7.0,,09/05/24,Back
+Cross trainer,,,10.0,09/05/24,Back
+Barbell curl,1.0,10.0,,10/05/24,Bicep
+Barbell curl,10.0,10.0,,10/05/24,Bicep
+Dumbbell curl,5.0,12.0,,10/05/24,Bicep
+Dumbbell curl,7.5,8.0,,10/05/24,Bicep
+Dumbbell curl,10.0,6.0,,10/05/24,Bicep
+Hammer curl,5.0,12.0,,10/05/24,Bicep
+Hammer curl,7.5,10.0,,10/05/24,Bicep
+Concentration curls,5.0,12.0,,10/05/24,Bicep
+Concentration curls,7.5,7.0,,10/05/24,Bicep
+Lateral raise,5.0,10.0,,14/05/24,Shoulders
+Lateral raise,10.0,12.0,,14/05/24,Shoulders
+Shoulder press,5.0,12.0,,14/05/24,Shoulders
+Shoulder press,7.5,10.0,,14/05/24,Shoulders
+Shoulder press,10.0,8.0,,14/05/24,Shoulders
+Rear peck fly,10.0,12.0,,14/05/24,Shoulders
+Rear peck fly,12.5,10.0,,14/05/24,Shoulders
+Shrugs,7.5,12.0,,14/05/24,Shoulders
+Shrugs,10.0,10.0,,14/05/24,Shoulders
+Shrugs,12.5,10.0,,14/05/24,Shoulders
+Wrist curls(forearms),5.0,20.0,,14/05/24,Shoulders
+Wrist curls(forearms),10.0,18.0,,14/05/24,Shoulders
+Barbell squats,5.0,10.0,,15/05/24,Legs
+Barbell squats,7.5,10.0,,15/05/24,Legs
+Barbell squats,10.0,6.0,,15/05/24,Legs
+Leg extensions,15.0,12.0,,15/05/24,Legs
+Leg extensions,20.0,12.0,,15/05/24,Legs
+Leg extensions,25.0,10.0,,15/05/24,Legs
+Leg curls,10.0,12.0,,15/05/24,Legs
+Leg curls,12.5,10.0,,15/05/24,Legs
+Leg curls,15.0,6.0,,15/05/24,Legs
+Standing calf raises,1.0,15.0,,15/05/24,Legs
+Standing calf raises,1.0,15.0,,15/05/24,Legs
+Standing calf raises,1.0,10.0,,15/05/24,Legs
+Treadmill running,,,10.0,25/05/24,Cardio
+Jumping jacks,1.0,30.0,,25/05/24,Cardio
+Jumping jacks,1.0,30.0,,25/05/24,Cardio
+Russian kettlebell swing,8.0,12.0,,25/05/24,Cardio
+Russian kettlebell swing,10.0,10.0,,25/05/24,Cardio
+Cross trainer,,,10.0,25/05/24,Cardio
+Leg extensions,15.0,10.0,,26/05/24,Legs
+Leg extensions,20.0,10.0,,26/05/24,Legs
+Hack squats,10.0,10.0,,26/05/24,Legs
+Hack squats,12.5,8.0,,26/05/24,Legs
+Leg curls,10.0,12.0,,26/05/24,Legs
+Leg curls,12.5,9.0,,26/05/24,Legs
+Seated calf raises,2.5,15.0,,26/05/24,Legs
+Seated calf raises,5.0,15.0,,26/05/24,Legs
+Cross trainer,,,10.0,26/05/24,Legs
+Pull Ups,1.0,10.0,,28/05/24,Chest
+Pull Ups,1.0,10.0,,28/05/24,Chest
+Bench Press,1.0,10.0,,28/05/24,Chest
+Bench Press,5.0,10.0,,28/05/24,Chest
+Decline bench press,1.0,10.0,,28/05/24,Chest
+Decline bench press,5.0,7.0,,28/05/24,Chest
+Decline bench press,7.5,2.0,,28/05/24,Chest
+Cable Crossover,5.0,10.0,,28/05/24,Chest
+Cable Crossover,6.5,7.0,,28/05/24,Chest
+Cable Crossover,9.0,5.0,,28/05/24,Chest
+Cross Trainer,,,15.0,28/05/24,Chest
+Pull Ups,1.0,20.0,,29/05/24,Back
+Row machine,15.0,10.0,,29/05/24,Back
+Row machine,25.0,10.0,,29/05/24,Back
+Hyperextensions,1.0,12.0,,29/05/24,Back
+Hyperextensions,5.0,12.0,,29/05/24,Back
+Lat pulldown,12.5,12.0,,29/05/24,Back
+Lat pulldown,15.0,10.0,,29/05/24,Back
+Lat pulldown,25.0,6.0,,29/05/24,Back
+Close grip lat pulldown,10.0,12.0,,29/05/24,Back
+Close grip lat pulldown,12.5,10.0,,29/05/24,Back
+Close grip lat pulldown,15.0,8.0,,29/05/24,Back
+Russian kettlebell swing,8.0,12.0,,29/05/24,Back
+Russian kettlebell swing,10.0,12.0,,29/05/24,Back
+Pull Ups,1.0,20.0,,30/05/24,Shoulders
+Pull Ups,1.0,12.0,,30/05/24,Shoulders
+Shoulder press,5.0,12.0,,30/05/24,Shoulders
+Shoulder press,7.5,10.0,,30/05/24,Shoulders
+Shoulder press,10.0,8.0,,30/05/24,Shoulders
+Lateral raise,5.0,12.0,,30/05/24,Shoulders
+Lateral raise,7.5,10.0,,30/05/24,Shoulders
+Lateral raise,10.0,4.0,,30/05/24,Shoulders
+Face pulls,5.0,10.0,,30/05/24,Shoulders
+Face pulls,7.5,10.0,,30/05/24,Shoulders
+Shrugs,7.5,15.0,,30/05/24,Shoulders
+Shrugs,10.0,12.0,,30/05/24,Shoulders
+Shrugs,12.5,12.0,,30/05/24,Shoulders
+Reverse curls(forearms),5.0,20.0,,30/05/24,Shoulders
+Reverse curls(forearms),10.0,20.0,,30/05/24,Shoulders
+Jumping jacks,1.0,30.0,,03/06/24,Cardio
+Jumping jacks,1.0,30.0,,03/06/24,Cardio
+Jumping jacks,1.0,30.0,,03/06/24,Cardio
+Treadmill running,,,10.0,03/06/24,Cardio
+Russian kettlebell swing,8.0,12.0,,03/06/24,Cardio
+Russian kettlebell swing,10.0,10.0,,03/06/24,Cardio
+Russian kettlebell swing,12.0,5.0,,03/06/24,Cardio
+Cross trainer,,,8.0,03/06/24,Cardio
+Push Ups,1.0,12.0,,04/06/24,Chest
+Push Ups,1.0,7.0,,04/06/24,Chest
+Chest press machine,10.0,10.0,,04/06/24,Chest
+Chest press machine,15.0,10.0,,04/06/24,Chest
+Chest press machine,17.5,5.0,,04/06/24,Chest
+Bench Press,5.0,12.0,,04/06/24,Chest
+Bench Press,7.5,10.0,,04/06/24,Chest
+Cable Crossover,5.0,10.0,,04/06/24,Chest
+Cable Crossover,6.5,10.0,,04/06/24,Chest
+Cable Crossover,9.0,5.0,,04/06/24,Chest
+Leg Press,10.0,10.0,,05/06/24,Legs
+Leg Press,12.5,10.0,,05/06/24,Legs
+Leg extensions,15.0,10.0,,05/06/24,Legs
+Leg extensions,20.0,10.0,,05/06/24,Legs
+Leg extensions,25.0,5.0,,05/06/24,Legs
+Leg curls,10.0,12.0,,05/06/24,Legs
+Leg curls,12.5,12.0,,05/06/24,Legs
+Jumping jacks,,,10.0,05/06/24,Legs
+Pull ups,1.0,12.0,,06/06/24,Bicep
+Pull ups,1.0,10.0,,06/06/24,Bicep
+Cable bicep curls,5.0,10.0,,06/06/24,Bicep
+Cable bicep curls,7.5,10.0,,06/06/24,Bicep
+Cable bicep curls,10.0,5.0,,06/06/24,Bicep
+Barbell curl,5.0,10.0,,06/06/24,Bicep
+Barbell curl,10.0,10.0,,06/06/24,Bicep
+Barbell curl,15.0,5.0,,06/06/24,Bicep
+Hammer curl,5.0,12.0,,06/06/24,Bicep
+Hammer curl,7.5,12.0,,06/06/24,Bicep
+Russian kettlebell swing,8.0,10.0,,06/06/24,Bicep
+Russian kettlebell swing,10.0,10.0,,06/06/24,Bicep
+Pull Ups,1.0,20.0,,12/06/24,Back
+Pull Ups,1.0,20.0,,12/06/24,Back
+Lat pulldown,12.5,10.0,,12/06/24,Back
+Lat pulldown,15.0,10.0,,12/06/24,Back
+Lat pulldown,25.0,3.0,,12/06/24,Back
+Row machine,15.0,12.0,,12/06/24,Back
+Row machine,25.0,12.0,,12/06/24,Back
+Hyperextensions,1.0,12.0,,12/06/24,Back
+Hyperextensions,5.0,10.0,,12/06/24,Back
+Hyperextensions,10.0,4.0,,12/06/24,Back
+Close grip lat pulldown,10.0,12.0,,12/06/24,Back
+Close grip lat pulldown,12.5,12.0,,12/06/24,Back
+Russian kettlebell swing,10.0,10.0,,12/06/24,Back
+Russian kettlebell swing,10.0,6.0,,12/06/24,Back
+Jumping jacks,1.0,30.0,,13/06/24,Cardio
+Jumping jacks,1.0,30.0,,13/06/24,Cardio
+Jumping jacks,1.0,30.0,,13/06/24,Cardio
+Treadmill running,,,15.0,13/06/24,Cardio
+Russian kettlebell swing,8.0,12.0,,13/06/24,Cardio
+Russian kettlebell swing,10.0,10.0,,13/06/24,Cardio
+Cross trainer,,,15.0,13/06/24,Cardio
+Pull Ups,1.0,20.0,,14/06/24,Shoulders
+Pull Ups,1.0,15.0,,14/06/24,Shoulders
+Face pulls,5.0,12.0,,14/06/24,Shoulders
+Face pulls,7.5,10.0,,14/06/24,Shoulders
+Shoulder press,5.0,12.0,,14/06/24,Shoulders
+Shoulder press,7.5,12.0,,14/06/24,Shoulders
+Shoulder press,10.0,5.0,,14/06/24,Shoulders
+Lateral raise,5.0,12.0,,14/06/24,Shoulders
+Lateral raise,7.5,10.0,,14/06/24,Shoulders
+Shrugs,7.5,15.0,,14/06/24,Shoulders
+Shrugs,10.0,15.0,,14/06/24,Shoulders
+Shrugs,12.5,12.0,,14/06/24,Shoulders
+Push Ups,1.0,12.0,,25/06/24,Chest
+Push Ups,1.0,10.0,,25/06/24,Chest
+Push Ups,1.0,4.0,,25/06/24,Chest
+Chest press machine,10.0,10.0,,25/06/24,Chest
+Chest press machine,15.0,10.0,,25/06/24,Chest
+Chest press machine,17.5,5.0,,25/06/24,Chest
+Bench Press,1.0,10.0,,25/06/24,Chest
+Bench Press,5.0,10.0,,25/06/24,Chest
+Bench Press,7.5,4.0,,25/06/24,Chest
+Decline bench press,1.0,10.0,,25/06/24,Chest
+Decline bench press,5.0,7.0,,25/06/24,Chest
+Peck Fly,15.0,10.0,,25/06/24,Chest
+Peck Fly,20.0,10.0,,25/06/24,Chest
+Peck Fly,25.0,7.0,,25/06/24,Chest
+Pull Ups,1.0,20.0,,26/06/24,Shoulders
+Pull Ups,1.0,10.0,,26/06/24,Shoulders
+Lateral raise,5.0,12.0,,26/06/24,Shoulders
+Lateral raise,7.5,12.0,,26/06/24,Shoulders
+Lateral raise,10.0,6.0,,26/06/24,Shoulders
+Face pulls,5.0,12.0,,26/06/24,Shoulders
+Face pulls,7.5,12.0,,26/06/24,Shoulders
+Shrugs,7.5,15.0,,26/06/24,Shoulders
+Shrugs,10.0,12.0,,26/06/24,Shoulders
+Shrugs,12.5,12.0,,26/06/24,Shoulders
+Rear peck fly,15.0,7.0,,26/06/24,Shoulders
+Rear peck fly,20.0,7.0,,26/06/24,Shoulders
+Rear peck fly,25.0,7.0,,26/06/24,Shoulders
+Pull ups,1.0,12.0,,27/06/24,Bicep
+Pull ups,1.0,12.0,,27/06/24,Bicep
+Concentration curls,5.0,10.0,,27/06/24,Bicep
+Concentration curls,7.5,10.0,,27/06/24,Bicep
+Barbell curl,5.0,12.0,,27/06/24,Bicep
+Barbell curl,10.0,12.0,,27/06/24,Bicep
+Hammer curl,5.0,12.0,,27/06/24,Bicep
+Hammer curl,7.5,12.0,,27/06/24,Bicep
+Cycle,,,15.0,27/06/24,Bicep
+Treadmill running,,,15.0,04/07/24,Cardio
+Jumping jacks,1.0,30.0,,04/07/24,Cardio
+Jumping jacks,1.0,30.0,,04/07/24,Cardio
+Jumping jacks,1.0,30.0,,04/07/24,Cardio
+Cross trainer,,,15.0,04/07/24,Cardio
+Push Ups,1.0,12.0,,05/07/24,Chest
+Push Ups,1.0,12.0,,05/07/24,Chest
+Bench Press,1.0,15.0,,05/07/24,Chest
+Bench Press,5.0,12.0,,05/07/24,Chest
+Cable Crossover,5.0,15.0,,05/07/24,Chest
+Cable Crossover,6.5,12.0,,05/07/24,Chest
+Cable Crossover,9.0,8.0,,05/07/24,Chest
+Decline bench press,1.0,10.0,,05/07/24,Chest
+Decline bench press,5.0,10.0,,05/07/24,Chest
+Peck Fly,15.0,12.0,,05/07/24,Chest
+Peck Fly,20.0,12.0,,05/07/24,Chest
+Peck Fly,25.0,8.0,,05/07/24,Chest
+Pull ups,1.0,12.0,,06/07/24,Bicep
+Pull ups,1.0,12.0,,06/07/24,Bicep
+Pull ups,1.0,5.0,,06/07/24,Bicep
+Concentration curls,5.0,10.0,,06/07/24,Bicep
+Concentration curls,7.5,10.0,,06/07/24,Bicep
+Barbell curl,5.0,12.0,,06/07/24,Bicep
+Barbell curl,10.0,12.0,,06/07/24,Bicep
+Barbell curl,15.0,7.0,,06/07/24,Bicep
+Reverse curls(forearms),5.0,12.0,,06/07/24,Bicep
+Reverse curls(forearms),7.5,12.0,,06/07/24,Bicep
+Cross fit,,,8.0,06/07/24,Bicep
+Hyperextensions,1.0,12.0,,07/07/24,Back
+Hyperextensions,5.0,12.0,,07/07/24,Back
+Hyperextensions,10.0,8.0,,07/07/24,Back
+Pull Ups,1.0,20.0,,07/07/24,Back
+Pull Ups,1.0,20.0,,07/07/24,Back
+Lat pulldown,15.0,10.0,,07/07/24,Back
+Lat pulldown,25.0,10.0,,07/07/24,Back
+Lat pulldown,30.0,8.0,,07/07/24,Back
+Row machine,15.0,12.0,,07/07/24,Back
+Row machine,25.0,12.0,,07/07/24,Back
+Row machine,30.0,12.0,,07/07/24,Back
+Close grip lat pulldown,10.0,12.0,,07/07/24,Back
+Close grip lat pulldown,12.5,12.0,,07/07/24,Back
+Close grip lat pulldown,15.0,10.0,,07/07/24,Back
+Russian kettlebell swing,8.0,10.0,,07/07/24,Back
+Russian kettlebell swing,12.0,10.0,,07/07/24,Back
+Russian kettlebell swing,16.0,3.0,,07/07/24,Back
+Hack squats,10.0,10.0,,08/07/24,Legs
+Hack squats,12.5,10.0,,08/07/24,Legs
+Hack squats,20.0,10.0,,08/07/24,Legs
+Leg extensions,15.0,12.0,,08/07/24,Legs
+Leg extensions,20.0,12.0,,08/07/24,Legs
+Leg extensions,25.0,7.0,,08/07/24,Legs
+Leg curls,10.0,12.0,,08/07/24,Legs
+Leg curls,12.5,12.0,,08/07/24,Legs
+Cycle,,,15.0,08/07/24,Legs
+Push Ups,1.0,12.0,,15/07/24,Chest
+Push Ups,1.0,12.0,,15/07/24,Chest
+Bench Press,5.0,15.0,,15/07/24,Chest
+Bench Press,7.5,5.0,,15/07/24,Chest
+Decline bench press,5.0,10.0,,15/07/24,Chest
+Decline bench press,7.5,3.0,,15/07/24,Chest
+Peck Fly,15.0,12.0,,15/07/24,Chest
+Peck Fly,20.0,12.0,,15/07/24,Chest
+Peck Fly,25.0,12.0,,15/07/24,Chest
+Russian kettlebell swing,8.0,10.0,,15/07/24,Chest
+Russian kettlebell swing,12.0,10.0,,15/07/24,Chest
+Lateral raise,5.0,12.0,,16/07/24,Shoulders
+Lateral raise,7.5,12.0,,16/07/24,Shoulders
+Lateral raise,10.0,12.0,,16/07/24,Shoulders
+Face pulls,5.0,12.0,,16/07/24,Shoulders
+Face pulls,7.5,12.0,,16/07/24,Shoulders
+Face pulls,10.0,10.0,,16/07/24,Shoulders
+Shrugs,7.5,15.0,,16/07/24,Shoulders
+Shrugs,10.0,12.0,,16/07/24,Shoulders
+Shrugs,12.5,12.0,,16/07/24,Shoulders
+Rear peck fly,15.0,10.0,,16/07/24,Shoulders
+Rear peck fly,20.0,10.0,,16/07/24,Shoulders
+Rear peck fly,25.0,5.0,,16/07/24,Shoulders
+Hyperextensions,1.0,15.0,,17/07/24,Back
+Hyperextensions,5.0,12.0,,17/07/24,Back
+Hyperextensions,10.0,10.0,,17/07/24,Back
+Pull Ups,1.0,20.0,,17/07/24,Back
+Pull Ups,1.0,20.0,,17/07/24,Back
+Pull Ups,1.0,5.0,,17/07/24,Back
+Lat pulldown,20.0,10.0,,17/07/24,Back
+Lat pulldown,30.0,10.0,,17/07/24,Back
+Lat pulldown,35.0,10.0,,17/07/24,Back
+Row machine,20.0,12.0,,17/07/24,Back
+Row machine,25.0,12.0,,17/07/24,Back
+Row machine,30.0,12.0,,17/07/24,Back
+Single arm dumbbell rows,5.0,10.0,,17/07/24,Back
+Single arm dumbbell rows,10.0,10.0,,17/07/24,Back
+Barbell squats,7.5,10.0,,18/07/24,Legs
+Barbell squats,10.0,10.0,,18/07/24,Legs
+Barbell squats,12.5,5.0,,18/07/24,Legs
+Leg extensions,20.0,12.0,,18/07/24,Legs
+Leg extensions,25.0,12.0,,18/07/24,Legs
+Leg extensions,30.0,10.0,,18/07/24,Legs
+Leg curls,10.0,12.0,,18/07/24,Legs
+Leg curls,12.5,12.0,,18/07/24,Legs
+Leg curls,15.0,10.0,,18/07/24,Legs
+Seated calf raise,2.5,15.0,,18/07/24,Legs
+Seated calf raise,5.0,15.0,,18/07/24,Legs
+Cycle,,,12.0,18/07/24,Legs
+Push Ups,1.0,12.0,,19/07/24,Bicep
+Push Ups,1.0,12.0,,19/07/24,Bicep
+Pull ups,1.0,12.0,,19/07/24,Bicep
+Pull ups,1.0,12.0,,19/07/24,Bicep
+Concentration curls,5.0,10.0,,19/07/24,Bicep
+Concentration curls,7.5,12.0,,19/07/24,Bicep
+Barbell curl,5.0,12.0,,19/07/24,Bicep
+Barbell curl,10.0,12.0,,19/07/24,Bicep
+Barbell curl,15.0,10.0,,19/07/24,Bicep
+Hammer curl,5.0,12.0,,19/07/24,Bicep
+Hammer curl,7.5,12.0,,19/07/24,Bicep
+Hammer curl,10.0,10.0,,19/07/24,Bicep
+Treadmill,,,12.0,19/07/24,Bicep
+Push Ups,1.0,12.0,,22/07/24,Chest
+Push Ups,1.0,12.0,,22/07/24,Chest
+Push Ups,1.0,10.0,,22/07/24,Chest
+Pull ups,1.0,12.0,,22/07/24,Chest
+Pull ups,1.0,12.0,,22/07/24,Chest
+Bench Press,1.0,15.0,,22/07/24,Chest
+Bench Press,5.0,12.0,,22/07/24,Chest
+Bench Press,7.5,5.0,,22/07/24,Chest
+Decline bench press,1.0,10.0,,22/07/24,Chest
+Decline bench press,5.0,10.0,,22/07/24,Chest
+Cable Crossover,5.0,15.0,,22/07/24,Chest
+Cable Crossover,6.5,14.0,,22/07/24,Chest
+Cable Crossover,9.0,10.0,,22/07/24,Chest
+Peck Fly,20.0,12.0,,22/07/24,Chest
+Peck Fly,25.0,10.0,,22/07/24,Chest
+Peck Fly,35.0,8.0,,22/07/24,Chest
+Treadmill running,,,15.0,26/07/24,Cardio
+Jumping jacks,1.0,30.0,,26/07/24,Cardio
+Jumping jacks,1.0,30.0,,26/07/24,Cardio
+Jumping jacks,1.0,30.0,,26/07/24,Cardio
+Cross trainer,,,12.0,26/07/24,Cardio
+Russian kettlebell swing,8.0,10.0,,26/07/24,Cardio
+Russian kettlebell swing,12.0,10.0,,26/07/24,Cardio
+Russian kettlebell swing,16.0,7.0,,26/07/24,Cardio
+Lateral raise,5.0,15.0,,27/07/24,Shoulders
+Lateral raise,7.5,15.0,,27/07/24,Shoulders
+Lateral raise,10.0,12.0,,27/07/24,Shoulders
+Face pulls,5.0,12.0,,27/07/24,Shoulders
+Face pulls,7.5,8.0,,27/07/24,Shoulders
+Face pulls,10.0,8.0,,27/07/24,Shoulders
+Shrugs,7.5,12.0,,27/07/24,Shoulders
+Shrugs,10.0,12.0,,27/07/24,Shoulders
+Shrugs,12.5,12.0,,27/07/24,Shoulders
+Hyperextensions,1.0,15.0,,01/08/24,Back
+Hyperextensions,5.0,15.0,,01/08/24,Back
+Hyperextensions,10.0,10.0,,01/08/24,Back
+Pull Ups,1.0,20.0,,01/08/24,Back
+Pull Ups,1.0,20.0,,01/08/24,Back
+Pull Ups,1.0,20.0,,01/08/24,Back
+Lat pulldown,20.0,10.0,,01/08/24,Back
+Lat pulldown,30.0,10.0,,01/08/24,Back
+Lat pulldown,35.0,10.0,,01/08/24,Back
+Row machine,15.0,12.0,,01/08/24,Back
+Row machine,25.0,12.0,,01/08/24,Back
+Row machine,30.0,12.0,,01/08/24,Back
+Close grip lat pulldown,10.0,12.0,,01/08/24,Back
+Close grip lat pulldown,12.5,12.0,,01/08/24,Back
+Close grip lat pulldown,15.0,10.0,,01/08/24,Back
+Jumping jack,1.0,10.0,,01/08/24,Back
+Jumping jack,1.0,10.0,,01/08/24,Back
+Jumping jack,1.0,10.0,,01/08/24,Back
+Push Ups,1.0,12.0,,02/08/24,Bicep
+Push Ups,1.0,12.0,,02/08/24,Bicep
+Pull ups,1.0,12.0,,02/08/24,Bicep
+Pull ups,1.0,12.0,,02/08/24,Bicep
+Barbell curl,5.0,12.0,,02/08/24,Bicep
+Barbell curl,7.5,12.0,,02/08/24,Bicep
+Barbell curl,10.0,10.0,,02/08/24,Bicep
+Hammer curl,5.0,12.0,,02/08/24,Bicep
+Hammer curl,7.5,12.0,,02/08/24,Bicep
+Hammer curl,10.0,10.0,,02/08/24,Bicep
+Reverse curls(forearms),5.0,12.0,,02/08/24,Bicep
+Reverse curls(forearms),7.5,12.0,,02/08/24,Bicep
+Treadmill,,,11.0,02/08/24,Bicep
+Treadmill running,,,15.0,03/08/24,Cardio
+Jumping jacks,1.0,35.0,,03/08/24,Cardio
+Jumping jacks,1.0,35.0,,03/08/24,Cardio
+Jumping jacks,1.0,35.0,,03/08/24,Cardio
+Cross trainer,,,12.0,03/08/24,Cardio
+Russian kettlebell swing,8.0,10.0,,03/08/24,Cardio
+Russian kettlebell swing,12.0,10.0,,03/08/24,Cardio
+Russian kettlebell swing,16.0,10.0,,03/08/24,Cardio
+Push Ups,1.0,12.0,,16/08/24,Chest
+Push Ups,1.0,12.0,,16/08/24,Chest
+Push Ups,1.0,12.0,,16/08/24,Chest
+Decline bench press,5.0,12.0,,16/08/24,Chest
+Decline bench press,10.0,10.0,,16/08/24,Chest
+Cable Crossover,5.0,15.0,,16/08/24,Chest
+Cable Crossover,6.5,15.0,,16/08/24,Chest
+Cable Crossover,9.0,15.0,,16/08/24,Chest
+Peck Fly,20.0,12.0,,16/08/24,Chest
+Peck Fly,25.0,10.0,,16/08/24,Chest
+Peck Fly,35.0,5.0,,16/08/24,Chest
+Treadmill,,,10.0,16/08/24,Chest
+Barbell squats,7.5,10.0,,17/08/24,Legs
+Barbell squats,10.0,10.0,,17/08/24,Legs
+Barbell squats,12.5,5.0,,17/08/24,Legs
+Leg Press,10.0,10.0,,17/08/24,Legs
+Leg Press,15.0,10.0,,17/08/24,Legs
+Leg Press,25.0,10.0,,17/08/24,Legs
+Leg Press,30.0,10.0,,17/08/24,Legs
+Leg extensions,25.0,15.0,,17/08/24,Legs
+Leg extensions,35.0,12.0,,17/08/24,Legs
+Leg extensions,35.0,5.0,,17/08/24,Legs
+Leg curls,10.0,12.0,,17/08/24,Legs
+Leg curls,12.5,12.0,,17/08/24,Legs
+Leg curls,15.0,10.0,,17/08/24,Legs
+Standing calf raise,1.0,15.0,,17/08/24,Legs
+Standing calf raise,1.0,15.0,,17/08/24,Legs
+Standing calf raise,1.0,15.0,,17/08/24,Legs
+Lateral raise,5.0,15.0,,20/08/24,Shoulders
+Lateral raise,7.5,15.0,,20/08/24,Shoulders
+Lateral raise,10.0,15.0,,20/08/24,Shoulders
+Shrugs,7.5,12.0,,20/08/24,Shoulders
+Shrugs,10.0,12.0,,20/08/24,Shoulders
+Shrugs,12.5,12.0,,20/08/24,Shoulders
+Reverse curls(forearms),5.0,12.0,,20/08/24,Shoulders
+Reverse curls(forearms),7.5,12.0,,20/08/24,Shoulders
+Hyperextensions,1.0,15.0,,21/08/24,Back
+Hyperextensions,5.0,15.0,,21/08/24,Back
+Hyperextensions,10.0,10.0,,21/08/24,Back
+Pull Ups,1.0,20.0,,21/08/24,Back
+Pull Ups,1.0,20.0,,21/08/24,Back
+Pull Ups,1.0,20.0,,21/08/24,Back
+Push Ups,1.0,12.0,,21/08/24,Back
+Push Ups,1.0,15.0,,21/08/24,Back
+Lat pulldown,25.0,10.0,,21/08/24,Back
+Lat pulldown,30.0,10.0,,21/08/24,Back
+Lat pulldown,35.5,10.0,,21/08/24,Back
+Row machine,20.0,12.0,,21/08/24,Back
+Row machine,25.0,12.0,,21/08/24,Back
+Row machine,35.0,12.0,,21/08/24,Back
+Close grip lat pulldown,10.0,12.0,,21/08/24,Back
+Close grip lat pulldown,12.5,12.0,,21/08/24,Back
+Close grip lat pulldown,15.0,12.0,,21/08/24,Back
+Barbell squats,7.5,10.0,,22/08/24,Legs
+Barbell squats,10.0,10.0,,22/08/24,Legs
+Barbell squats,12.5,5.0,,22/08/24,Legs
+Hack squats,15.0,10.0,,22/08/24,Legs
+Hack squats,25.0,10.0,,22/08/24,Legs
+Leg extensions,25.0,15.0,,22/08/24,Legs
+Leg extensions,35.0,12.0,,22/08/24,Legs
+Leg extensions,35.0,5.0,,22/08/24,Legs
+Standing calf raise,1.0,15.0,,22/08/24,Legs
+Standing calf raise,1.0,15.0,,22/08/24,Legs
+Standing calf raise,1.0,15.0,,22/08/24,Legs
+Seated calf raise,2.5,15.0,,22/08/24,Legs
+Seated calf raise,5.0,15.0,,22/08/24,Legs
+Treadmill running,,,15.0,25/08/24,Cardio
+Mountain climbers,1.0,25.0,,25/08/24,Cardio
+Mountain climbers,1.0,25.0,,25/08/24,Cardio
+Push Ups,1.0,12.0,,25/08/24,Cardio
+Push Ups,1.0,12.0,,25/08/24,Cardio
+Push Ups,1.0,12.0,,25/08/24,Cardio
+Free squats,1.0,25.0,,25/08/24,Cardio
+Free squats,1.0,25.0,,25/08/24,Cardio
+Free squats,1.0,25.0,,25/08/24,Cardio
+Push Ups,1.0,12.0,,31/08/24,Shoulders
+Push Ups,1.0,12.0,,31/08/24,Shoulders
+Lateral raise,5.0,15.0,,31/08/24,Shoulders
+Lateral raise,7.5,15.0,,31/08/24,Shoulders
+Lateral raise,10.0,15.0,,31/08/24,Shoulders
+Face pulls,10.0,10.0,,31/08/24,Shoulders
+Face pulls,15.0,10.0,,31/08/24,Shoulders
+Shrugs,10.0,12.0,,31/08/24,Shoulders
+Shrugs,12.5,12.0,,31/08/24,Shoulders
+Shrugs,15.0,6.0,,31/08/24,Shoulders
+Treadmill running,,,10.0,31/08/24,Shoulders
+Treadmill running,,,15.0,03/09/24,Cardio
+Jumping jacks,1.0,50.0,,03/09/24,Cardio
+Jumping jacks,1.0,50.0,,03/09/24,Cardio
+Cross trainer,,,15.0,03/09/24,Cardio
+Mountain climbers,1.0,20.0,,03/09/24,Cardio
+Mountain climbers,1.0,20.0,,03/09/24,Cardio
+Push Ups,1.0,12.0,,03/09/24,Cardio
+Push Ups,1.0,12.0,,03/09/24,Cardio
+Push Ups,1.0,12.0,,03/09/24,Cardio
+Hyperextensions,1.0,15.0,,04/09/24,Back
+Hyperextensions,5.0,12.0,,04/09/24,Back
+Hyperextensions,10.0,12.0,,04/09/24,Back
+Pull Ups,1.0,20.0,,04/09/24,Back
+Pull Ups,1.0,20.0,,04/09/24,Back
+Lat pulldown,20.0,10.0,,04/09/24,Back
+Lat pulldown,30.0,10.0,,04/09/24,Back
+Lat pulldown,35.0,10.0,,04/09/24,Back
+Lat pulldown,40.0,5.0,,04/09/24,Back
+Row machine,20.0,12.0,,04/09/24,Back
+Row machine,25.0,12.0,,04/09/24,Back
+Row machine,30.0,12.0,,04/09/24,Back
+Row machine,35.0,7.0,,04/09/24,Back
+Single arm dumbbell rows,5.0,10.0,,04/09/24,Back
+Single arm dumbbell rows,10.0,10.0,,04/09/24,Back
+Single arm dumbbell rows,15.0,5.0,,04/09/24,Back
+Push Ups,1.0,12.0,,05/09/24,Bicep
+Push Ups,1.0,12.0,,05/09/24,Bicep
+Pull ups,1.0,15.0,,05/09/24,Bicep
+Pull ups,1.0,15.0,,05/09/24,Bicep
+Barbell curl,5.0,12.0,,05/09/24,Bicep
+Barbell curl,7.5,12.0,,05/09/24,Bicep
+Barbell curl,10.0,12.0,,05/09/24,Bicep
+Hammer curl,5.0,12.0,,05/09/24,Bicep
+Hammer curl,7.5,12.0,,05/09/24,Bicep
+Hammer curl,10.0,12.0,,05/09/24,Bicep
+Reverse curls(forearms),5.0,12.0,,05/09/24,Bicep
+Reverse curls(forearms),7.5,12.0,,05/09/24,Bicep
+Reverse curls(forearms),10.0,10.0,,05/09/24,Bicep
+Cycle,,,10.0,05/09/24,Bicep
+Push Ups,1.0,12.0,,06/09/24,Chest
+Push Ups,1.0,12.0,,06/09/24,Chest
+Push Ups,1.0,12.0,,06/09/24,Chest
+Chest press,10.0,10.0,,06/09/24,Chest
+Chest press,12.0,10.0,,06/09/24,Chest
+Chest press,15.0,10.0,,06/09/24,Chest
+Chest press,20.0,5.0,,06/09/24,Chest
+Decline bench press,5.0,12.0,,06/09/24,Chest
+Decline bench press,10.0,10.0,,06/09/24,Chest
+Cable Crossover,5.0,15.0,,06/09/24,Chest
+Cable Crossover,6.5,15.0,,06/09/24,Chest
+Cable Crossover,9.0,15.0,,06/09/24,Chest
+Peck Fly,20.0,10.0,,06/09/24,Chest
+Peck Fly,25.0,10.0,,06/09/24,Chest
+Peck Fly,35.0,2.0,,06/09/24,Chest
+Treadmill,,,10.0,06/09/24,Chest
+Barbell squats,7.5,10.0,,07/09/24,Legs
+Barbell squats,10.0,10.0,,07/09/24,Legs
+Barbell squats,12.5,2.0,,07/09/24,Legs
+Leg press,15.0,10.0,,07/09/24,Legs
+Leg press,25.0,10.0,,07/09/24,Legs
+Leg press,30.0,10.0,,07/09/24,Legs
+Leg extensions,20.0,10.0,,07/09/24,Legs
+Leg extensions,25.0,15.0,,07/09/24,Legs
+Leg extensions,35.0,12.0,,07/09/24,Legs
+Seated calf raise,2.5,15.0,,07/09/24,Legs
+Seated calf raise,5.0,15.0,,07/09/24,Legs
+Push Ups,1.0,12.0,,08/09/24,Shoulders
+Push Ups,1.0,12.0,,08/09/24,Shoulders
+Lateral raise,5.0,15.0,,08/09/24,Shoulders
+Lateral raise,7.5,15.0,,08/09/24,Shoulders
+Lateral raise,10.0,15.0,,08/09/24,Shoulders
+Shoulder press,10.0,10.0,,08/09/24,Shoulders
+Shoulder press,15.0,10.0,,08/09/24,Shoulders
+Face pulls,10.0,10.0,,08/09/24,Shoulders
+Face pulls,15.0,10.0,,08/09/24,Shoulders
+Shrugs,10.0,12.0,,08/09/24,Shoulders
+Shrugs,12.5,12.0,,08/09/24,Shoulders
+Shrugs,15.0,10.0,,08/09/24,Shoulders
+Push Ups,1.0,12.0,,18/09/24,Chest
+Push Ups,1.0,12.0,,18/09/24,Chest
+Push Ups,1.0,12.0,,18/09/24,Chest
+Chest press,10.0,10.0,,18/09/24,Chest
+Chest press,12.0,10.0,,18/09/24,Chest
+Chest press,15.0,10.0,,18/09/24,Chest
+Chest press,20.0,5.0,,18/09/24,Chest
+Bench press,5.0,12.0,,18/09/24,Chest
+Bench press,10.0,10.0,,18/09/24,Chest
+Cable Crossover,5.0,15.0,,18/09/24,Chest
+Cable Crossover,6.5,10.0,,18/09/24,Chest
+Cable Crossover,9.0,10.0,,18/09/24,Chest
+Mountain climbers,1.0,20.0,,18/09/24,Chest
+Mountain climbers,1.0,20.0,,18/09/24,Chest
+Push Ups,1.0,12.0,,19/09/24,Bicep
+Push Ups,1.0,12.0,,19/09/24,Bicep
+Pull ups,1.0,15.0,,19/09/24,Bicep
+Pull ups,1.0,15.0,,19/09/24,Bicep
+Barbell curl,5.0,15.0,,19/09/24,Bicep
+Barbell curl,7.5,15.0,,19/09/24,Bicep
+Barbell curl,10.0,12.0,,19/09/24,Bicep
+Hammer curl,5.0,12.0,,19/09/24,Bicep
+Hammer curl,7.5,12.0,,19/09/24,Bicep
+Hammer curl,10.0,12.0,,19/09/24,Bicep
+Concentration curls,5.0,15.0,,19/09/24,Bicep
+Concentration curls,7.5,15.0,,19/09/24,Bicep
+Reverse curls(forearms),5.0,12.0,,19/09/24,Bicep
+Reverse curls(forearms),7.5,12.0,,19/09/24,Bicep
+Reverse curls(forearms),10.0,10.0,,19/09/24,Bicep
+Push Ups,1.0,12.0,,20/09/24,Shoulders
+Push Ups,1.0,12.0,,20/09/24,Shoulders
+Pull ups,1.0,15.0,,20/09/24,Shoulders
+Pull ups,1.0,15.0,,20/09/24,Shoulders
+Shoulder press,10.0,10.0,,20/09/24,Shoulders
+Shoulder press,15.0,10.0,,20/09/24,Shoulders
+Face pulls,10.0,10.0,,20/09/24,Shoulders
+Face pulls,15.0,10.0,,20/09/24,Shoulders
+Face pulls,20.0,4.0,,20/09/24,Shoulders
+Shrugs,10.0,12.0,,20/09/24,Shoulders
+Shrugs,12.5,12.0,,20/09/24,Shoulders
+Shrugs,15.0,10.0,,20/09/24,Shoulders
+Reverse curls(forearms),5.0,12.0,,20/09/24,Shoulders
+Reverse curls(forearms),7.5,12.0,,20/09/24,Shoulders
+Reverse curls(forearms),10.0,10.0,,20/09/24,Shoulders
+Treadmill running,,,15.0,28/09/24,Cardio
+Jumping jacks,1.0,50.0,,28/09/24,Cardio
+Jumping jacks,1.0,50.0,,28/09/24,Cardio
+Jumping jacks,1.0,50.0,,28/09/24,Cardio
+Cross trainer,,,12.0,28/09/24,Cardio
+Mountain climbers,1.0,20.0,,28/09/24,Cardio
+Mountain climbers,1.0,20.0,,28/09/24,Cardio
+Free squats,1.0,25.0,,28/09/24,Cardio
+Free squats,1.0,25.0,,28/09/24,Cardio
+Push Ups,1.0,12.0,,28/09/24,Cardio
+Push Ups,1.0,12.0,,28/09/24,Cardio
+Push Ups,1.0,12.0,,28/09/24,Cardio
+Barbell squats,7.5,12.0,,29/09/24,Legs
+Barbell squats,10.0,12.0,,29/09/24,Legs
+Barbell squats,12.5,5.0,,29/09/24,Legs
+Leg press,15.0,12.0,,29/09/24,Legs
+Leg press,25.0,12.0,,29/09/24,Legs
+Leg press,30.0,12.0,,29/09/24,Legs
+Leg extensions,20.0,12.0,,29/09/24,Legs
+Leg extensions,25.0,12.0,,29/09/24,Legs
+Leg extensions,35.0,10.0,,29/09/24,Legs
+Standing calf raise,1.0,30.0,,29/09/24,Legs
+Standing calf raise,1.0,30.0,,29/09/24,Legs
+Standing calf raise,1.0,22.0,,29/09/24,Legs
+Hyperextensions,1.0,15.0,,01/10/24,Back
+Hyperextensions,5.0,12.0,,01/10/24,Back
+Hyperextensions,10.0,12.0,,01/10/24,Back
+Push Ups,1.0,12.0,,01/10/24,Back
+Push Ups,1.0,12.0,,01/10/24,Back
+Push Ups,1.0,10.0,,01/10/24,Back
+Pull Ups,1.0,20.0,,01/10/24,Back
+Pull Ups,1.0,20.0,,01/10/24,Back
+Pull Ups,1.0,10.0,,01/10/24,Back
+Lat pulldown,20.0,10.0,,01/10/24,Back
+Lat pulldown,30.0,10.0,,01/10/24,Back
+Lat pulldown,35.0,10.0,,01/10/24,Back
+Row machine,20.0,10.0,,01/10/24,Back
+Row machine,25.0,12.0,,01/10/24,Back
+Row machine,30.0,12.0,,01/10/24,Back
+Row machine,35.0,10.0,,01/10/24,Back
+Single arm dumbbell rows,5.0,10.0,,01/10/24,Back
+Single arm dumbbell rows,10.0,10.0,,01/10/24,Back
+Single arm dumbbell rows,15.0,10.0,,01/10/24,Back
+Push Ups,1.0,12.0,,08/10/24,Bicep
+Push Ups,1.0,12.0,,08/10/24,Bicep
+Pull ups,1.0,15.0,,08/10/24,Bicep
+Pull ups,1.0,11.0,,08/10/24,Bicep
+Barbell curl,5.0,15.0,,08/10/24,Bicep
+Barbell curl,7.5,15.0,,08/10/24,Bicep
+Barbell curl,10.0,12.0,,08/10/24,Bicep
+Hammer curl,5.0,12.0,,08/10/24,Bicep
+Hammer curl,7.5,12.0,,08/10/24,Bicep
+Hammer curl,10.0,12.0,,08/10/24,Bicep
+Concentration curls,5.0,15.0,,08/10/24,Bicep
+Concentration curls,7.5,15.0,,08/10/24,Bicep
+Reverse curls(forearms),5.0,12.0,,08/10/24,Bicep
+Reverse curls(forearms),7.5,12.0,,08/10/24,Bicep
+Reverse curls(forearms),10.0,12.0,,08/10/24,Bicep
+Jumping jacks,1.0,50.0,,21/10/24,Cardio
+Jumping jacks,1.0,50.0,,21/10/24,Cardio
+Jumping jacks,1.0,50.0,,21/10/24,Cardio
+Cross trainer,,,12.0,21/10/24,Cardio
+Mountain climbers,1.0,20.0,,21/10/24,Cardio
+Mountain climbers,1.0,20.0,,21/10/24,Cardio
+Free squats,1.0,25.0,,21/10/24,Cardio
+Free squats,1.0,25.0,,21/10/24,Cardio
+Push Ups,1.0,12.0,,21/10/24,Cardio
+Push Ups,1.0,12.0,,21/10/24,Cardio
+Push Ups,1.0,12.0,,21/10/24,Cardio
+Barbell squats,7.5,12.0,,22/10/24,Legs
+Barbell squats,10.0,12.0,,22/10/24,Legs
+Barbell squats,12.5,12.0,,22/10/24,Legs
+Leg press,15.0,12.0,,22/10/24,Legs
+Leg press,25.0,12.0,,22/10/24,Legs
+Leg press,30.0,12.0,,22/10/24,Legs
+Leg press,35.0,10.0,,22/10/24,Legs
+Leg extensions,20.0,12.0,,22/10/24,Legs
+Leg extensions,25.0,12.0,,22/10/24,Legs
+Leg extensions,35.0,10.0,,22/10/24,Legs
+Standing calf raise,1.0,30.0,,22/10/24,Legs
+Standing calf raise,1.0,30.0,,22/10/24,Legs
+Standing calf raise,1.0,30.0,,22/10/24,Legs
+Seated calf raise,5.0,12.0,,22/10/24,Legs
+Seated calf raise,7.5,12.0,,22/10/24,Legs
+Push Ups,1.0,12.0,,23/10/24,Bicep
+Push Ups,1.0,12.0,,23/10/24,Bicep
+Push Ups,1.0,10.0,,23/10/24,Bicep
+Pull ups,1.0,15.0,,23/10/24,Bicep
+Pull ups,1.0,15.0,,23/10/24,Bicep
+Dumbbell curl,5.0,15.0,,23/10/24,Bicep
+Dumbbell curl,7.5,15.0,,23/10/24,Bicep
+Dumbbell curl,10.0,12.0,,23/10/24,Bicep
+Barbell curl,5.0,10.0,,23/10/24,Bicep
+Barbell curl,10.0,10.0,,23/10/24,Bicep
+Hammer curl,5.0,10.0,,23/10/24,Bicep
+Hammer curl,7.5,12.0,,23/10/24,Bicep
+Hammer curl,10.0,10.0,,23/10/24,Bicep
+Concentration curls,5.0,15.0,,23/10/24,Bicep
+Concentration curls,7.5,15.0,,23/10/24,Bicep
+Concentration curls,10.0,5.0,,23/10/24,Bicep
+Reverse curls(forearms),5.0,12.0,,23/10/24,Bicep
+Reverse curls(forearms),7.5,10.0,,23/10/24,Bicep
+Reverse curls(forearms),10.0,10.0,,23/10/24,Bicep
+Push Ups,1.0,12.0,,24/10/24,Shoulders
+Push Ups,1.0,12.0,,24/10/24,Shoulders
+Face pulls,10.0,12.0,,24/10/24,Shoulders
+Face pulls,15.0,12.0,,24/10/24,Shoulders
+Face pulls,20.0,10.0,,24/10/24,Shoulders
+Pull ups,1.0,15.0,,24/10/24,Shoulders
+Pull ups,1.0,15.0,,24/10/24,Shoulders
+Shoulder press,10.0,10.0,,24/10/24,Shoulders
+Shoulder press,15.0,10.0,,24/10/24,Shoulders
+Shrugs,10.0,12.0,,24/10/24,Shoulders
+Shrugs,12.5,12.0,,24/10/24,Shoulders
+Shrugs,15.0,10.0,,24/10/24,Shoulders
+Push Ups,1.0,12.0,,04/11/24,Chest
+Push Ups,1.0,12.0,,04/11/24,Chest
+Push Ups,1.0,12.0,,04/11/24,Chest
+Chest press,10.0,10.0,,04/11/24,Chest
+Chest press,12.0,10.0,,04/11/24,Chest
+Chest press,15.0,10.0,,04/11/24,Chest
+Bench press,5.0,12.0,,04/11/24,Chest
+Bench press,10.0,10.0,,04/11/24,Chest
+Decline bench press,5.0,10.0,,04/11/24,Chest
+Decline bench press,7.5,10.0,,04/11/24,Chest
+Decline bench press,10.0,7.0,,04/11/24,Chest
+Cable Crossover,5.0,15.0,,04/11/24,Chest
+Cable Crossover,6.5,15.0,,04/11/24,Chest
+Cable Crossover,9.0,15.0,,04/11/24,Chest
+Pull Ups,1.0,20.0,,05/11/24,Back
+Pull Ups,1.0,20.0,,05/11/24,Back
+Pull Ups,1.0,10.0,,05/11/24,Back
+Lat pulldown,25.0,10.0,,05/11/24,Back
+Lat pulldown,35.0,10.0,,05/11/24,Back
+Lat pulldown,40.0,10.0,,05/11/24,Back
+Row machine,20.0,12.0,,05/11/24,Back
+Row machine,25.0,12.0,,05/11/24,Back
+Row machine,30.0,12.0,,05/11/24,Back
+Row machine,35.0,10.0,,05/11/24,Back
+Single arm dumbbell rows,5.0,10.0,,05/11/24,Back
+Single arm dumbbell rows,10.0,10.0,,05/11/24,Back
+Single arm dumbbell rows,15.0,10.0,,05/11/24,Back
+Push Ups,1.0,12.0,,06/11/24,Shoulders
+Push Ups,1.0,12.0,,06/11/24,Shoulders
+Pull ups,1.0,15.0,,06/11/24,Shoulders
+Pull ups,1.0,15.0,,06/11/24,Shoulders
+Shoulder press,10.0,10.0,,06/11/24,Shoulders
+Shoulder press,15.0,10.0,,06/11/24,Shoulders
+Face pulls,10.0,10.0,,06/11/24,Shoulders
+Face pulls,15.0,10.0,,06/11/24,Shoulders
+Face pulls,20.0,4.0,,06/11/24,Shoulders
+Shrugs,10.0,12.0,,06/11/24,Shoulders
+Shrugs,12.5,12.0,,06/11/24,Shoulders
+Shrugs,15.0,10.0,,06/11/24,Shoulders
+Reverse curls(forearms),5.0,12.0,,06/11/24,Shoulders
+Reverse curls(forearms),7.5,12.0,,06/11/24,Shoulders
+Reverse curls(forearms),10.0,10.0,,06/11/24,Shoulders
+Push Ups,1.0,12.0,,07/11/24,Bicep
+Push Ups,1.0,12.0,,07/11/24,Bicep
+Pull ups,1.0,15.0,,07/11/24,Bicep
+Pull ups,1.0,15.0,,07/11/24,Bicep
+Barbell curl,5.0,12.0,,07/11/24,Bicep
+Barbell curl,7.5,12.0,,07/11/24,Bicep
+Barbell curl,10.0,12.0,,07/11/24,Bicep
+Hammer curl,5.0,12.0,,07/11/24,Bicep
+Hammer curl,7.5,12.0,,07/11/24,Bicep
+Hammer curl,10.0,12.0,,07/11/24,Bicep
+Reverse curls(forearms),5.0,12.0,,07/11/24,Bicep
+Reverse curls(forearms),7.5,12.0,,07/11/24,Bicep
+Reverse curls(forearms),10.0,10.0,,07/11/24,Bicep
+Cycle,,,10.0,07/11/24,Bicep
+Barbell squats,7.5,12.0,,08/11/24,Legs
+Barbell squats,10.0,12.0,,08/11/24,Legs
+Barbell squats,15.0,12.0,,08/11/24,Legs
+Leg press,15.0,12.0,,08/11/24,Legs
+Leg press,25.0,12.0,,08/11/24,Legs
+Leg press,30.0,12.0,,08/11/24,Legs
+Leg press,40.0,10.0,,08/11/24,Legs
+Leg extensions,20.0,12.0,,08/11/24,Legs
+Leg extensions,25.0,12.0,,08/11/24,Legs
+Leg extensions,35.0,10.0,,08/11/24,Legs
+Standing calf raise,1.0,30.0,,08/11/24,Legs
+Standing calf raise,1.0,30.0,,08/11/24,Legs
+Standing calf raise,1.0,30.0,,08/11/24,Legs
+Seated calf raise,5.0,12.0,,08/11/24,Legs
+Seated calf raise,7.5,12.0,,08/11/24,Legs
+Push Ups,1.0,12.0,,09/11/24,Chest
+Push Ups,1.0,12.0,,09/11/24,Chest
+Push Ups,1.0,12.0,,09/11/24,Chest
+Pull ups,1.0,12.0,,09/11/24,Chest
+Pull ups,1.0,12.0,,09/11/24,Chest
+Pull ups,1.0,12.0,,09/11/24,Chest
+Chest press,10.0,10.0,,09/11/24,Chest
+Chest press,12.0,10.0,,09/11/24,Chest
+Chest press,15.0,10.0,,09/11/24,Chest
+Bench press,5.0,10.0,,09/11/24,Chest
+Bench press,10.0,8.0,,09/11/24,Chest
+Decline bench press,5.0,10.0,,09/11/24,Chest
+Decline bench press,7.5,10.0,,09/11/24,Chest
+Decline bench press,10.0,10.0,,09/11/24,Chest
+Cable Crossover,5.0,15.0,,09/11/24,Chest
+Cable Crossover,6.5,15.0,,09/11/24,Chest
+Cable Crossover,9.0,15.0,,09/11/24,Chest
+Jumping jacks,1.0,50.0,,28/11/24,Cardio
+Jumping jacks,1.0,50.0,,28/11/24,Cardio
+Jumping jacks,1.0,50.0,,28/11/24,Cardio
+Free squats,1.0,25.0,,28/11/24,Cardio
+Free squats,1.0,25.0,,28/11/24,Cardio
+Push Ups,1.0,12.0,,28/11/24,Cardio
+Push Ups,1.0,12.0,,28/11/24,Cardio
+Push Ups,1.0,12.0,,28/11/24,Cardio
+Cross trainer,,,12.0,29/11/24,Cardio
+Mountain climbers,1.0,20.0,,29/11/24,Cardio
+Mountain climbers,1.0,20.0,,29/11/24,Cardio
+Russian kettlebell swing,8.0,10.0,,29/11/24,Cardio
+Russian kettlebell swing,12.0,10.0,,29/11/24,Cardio
+Russian kettlebell swing,16.0,10.0,,29/11/24,Cardio
+Pull ups,1.0,15.0,,08/12/24,Bicep
+Pull ups,1.0,15.0,,08/12/24,Bicep
+Dumbbell curl,5.0,15.0,,08/12/24,Bicep
+Dumbbell curl,7.5,15.0,,08/12/24,Bicep
+Dumbbell curl,10.0,15.0,,08/12/24,Bicep
+Barbell curl,5.0,10.0,,08/12/24,Bicep
+Barbell curl,10.0,10.0,,08/12/24,Bicep
+Hammer curl,5.0,10.0,,08/12/24,Bicep
+Hammer curl,7.5,12.0,,08/12/24,Bicep
+Hammer curl,10.0,10.0,,08/12/24,Bicep
+Concentration curls,5.0,15.0,,08/12/24,Bicep
+Concentration curls,7.5,15.0,,08/12/24,Bicep
+Concentration curls,10.0,5.0,,08/12/24,Bicep
+Reverse curls(forearms),5.0,12.0,,08/12/24,Bicep
+Reverse curls(forearms),7.5,10.0,,08/12/24,Bicep
+Reverse curls(forearms),10.0,10.0,,08/12/24,Bicep
+Barbell squats,7.5,12.0,,09/12/24,Legs
+Barbell squats,10.0,12.0,,09/12/24,Legs
+Barbell squats,15.0,12.0,,09/12/24,Legs
+Leg press,15.0,12.0,,09/12/24,Legs
+Leg press,25.0,12.0,,09/12/24,Legs
+Leg press,32.5,12.0,,09/12/24,Legs
+Leg press,40.0,12.0,,09/12/24,Legs
+Leg extensions,20.0,12.0,,09/12/24,Legs
+Leg extensions,25.0,12.0,,09/12/24,Legs
+Leg extensions,35.0,12.0,,09/12/24,Legs
+Standing calf raise,1.0,30.0,,09/12/24,Legs
+Standing calf raise,1.0,30.0,,09/12/24,Legs
+Standing calf raise,1.0,25.0,,09/12/24,Legs
+Jumping jacks,1.0,50.0,,10/12/24,Cardio
+Jumping jacks,1.0,50.0,,10/12/24,Cardio
+Jumping jacks,1.0,50.0,,10/12/24,Cardio
+Free squats,1.0,25.0,,10/12/24,Cardio
+Free squats,1.0,25.0,,10/12/24,Cardio
+Free squats,1.0,25.0,,10/12/24,Cardio
+Push Ups,1.0,12.0,,10/12/24,Cardio
+Push Ups,1.0,12.0,,10/12/24,Cardio
+Push Ups,1.0,12.0,,10/12/24,Cardio
+Push Ups,1.0,12.0,,11/12/24,Chest
+Push Ups,1.0,12.0,,11/12/24,Chest
+Push Ups,1.0,12.0,,11/12/24,Chest
+Chest press,10.0,10.0,,11/12/24,Chest
+Chest press,12.0,10.0,,11/12/24,Chest
+Chest press,15.5,10.0,,11/12/24,Chest
+Bench press,5.0,12.0,,11/12/24,Chest
+Bench press,10.0,10.0,,11/12/24,Chest
+Decline bench press,5.0,10.0,,11/12/24,Chest
+Decline bench press,7.5,10.0,,11/12/24,Chest
+Decline bench press,10.0,10.0,,11/12/24,Chest
+Cable Crossover,5.0,15.0,,11/12/24,Chest
+Cable Crossover,6.5,15.0,,11/12/24,Chest
+Cable Crossover,9.0,15.0,,11/12/24,Chest
+Push Ups,1.0,12.0,,21/12/24,Bicep
+Push Ups,1.0,12.0,,21/12/24,Bicep
+Push Ups,1.0,12.0,,21/12/24,Bicep
+Dumbbell curl,5.0,15.0,,21/12/24,Bicep
+Dumbbell curl,7.5,15.0,,21/12/24,Bicep
+Dumbbell curl,10.0,12.0,,21/12/24,Bicep
+Dumbbell curl,12.0,10.0,,21/12/24,Bicep
+Barbell curl,5.0,10.0,,21/12/24,Bicep
+Barbell curl,10.0,10.0,,21/12/24,Bicep
+Barbell curl,15.0,10.0,,21/12/24,Bicep
+Hammer curl,5.0,10.0,,21/12/24,Bicep
+Hammer curl,7.5,12.0,,21/12/24,Bicep
+Hammer curl,10.0,10.0,,21/12/24,Bicep
+Hack squats,10.0,12.0,,22/12/24,Legs
+Hack squats,15.0,12.0,,22/12/24,Legs
+Hack squats,15.0,6.0,,22/12/24,Legs
+Leg press,15.0,8.0,,22/12/24,Legs
+Leg press,25.0,10.0,,22/12/24,Legs
+Leg press,30.0,10.0,,22/12/24,Legs
+Leg press,40.0,6.0,,22/12/24,Legs
+Leg extensions,20.0,12.0,,22/12/24,Legs
+Leg extensions,25.0,12.0,,22/12/24,Legs
+Leg extensions,35.0,10.0,,22/12/24,Legs
+Standing calf raise,1.0,30.0,,22/12/24,Legs
+Standing calf raise,1.0,30.0,,22/12/24,Legs
+Standing calf raise,1.0,22.0,,22/12/24,Legs
+Seated calf raise,5.0,12.0,,22/12/24,Legs
+Seated calf raise,7.5,12.0,,22/12/24,Legs
+Jumping jacks,1.0,50.0,,23/12/24,Cardio
+Jumping jacks,1.0,50.0,,23/12/24,Cardio
+Jumping jacks,1.0,50.0,,23/12/24,Cardio
+Free squats,1.0,25.0,,23/12/24,Cardio
+Free squats,1.0,25.0,,23/12/24,Cardio
+Free squats,1.0,22.0,,23/12/24,Cardio
+Push Ups,1.0,12.0,,23/12/24,Cardio
+Push Ups,1.0,12.0,,23/12/24,Cardio
+Push Ups,1.0,12.0,,23/12/24,Cardio
+Pull ups,1.0,15.0,,03/01/25,Bicep
+Pull ups,1.0,15.0,,03/01/25,Bicep
+Pull ups,1.0,15.0,,03/01/25,Bicep
+Barbell curl,5.0,10.0,,03/01/25,Bicep
+Barbell curl,10.0,10.0,,03/01/25,Bicep
+Hammer curl,5.0,10.0,,03/01/25,Bicep
+Hammer curl,7.5,12.0,,03/01/25,Bicep
+Hammer curl,10.0,10.0,,03/01/25,Bicep
+Concentration curls,5.0,15.0,,03/01/25,Bicep
+Concentration curls,7.5,15.0,,03/01/25,Bicep
+Concentration curls,10.0,5.0,,03/01/25,Bicep
+Reverse curls(forearms),5.0,12.0,,03/01/25,Bicep
+Reverse curls(forearms),7.5,10.0,,03/01/25,Bicep
+Reverse curls(forearms),10.0,10.0,,03/01/25,Bicep
+Barbell squats,7.5,12.0,,04/01/25,Legs
+Barbell squats,10.0,12.0,,04/01/25,Legs
+Barbell squats,15.0,12.0,,04/01/25,Legs
+Leg press,15.0,12.0,,04/01/25,Legs
+Leg press,25.0,12.0,,04/01/25,Legs
+Leg press,30.0,12.0,,04/01/25,Legs
+Leg press,40.0,10.0,,04/01/25,Legs
+Leg extensions,20.0,12.0,,04/01/25,Legs
+Leg extensions,25.0,12.0,,04/01/25,Legs
+Leg extensions,35.0,10.0,,04/01/25,Legs
+Jumping jacks,1.0,50.0,,05/01/25,Cardio
+Jumping jacks,1.0,50.0,,05/01/25,Cardio
+Jumping jacks,1.0,60.0,,05/01/25,Cardio
+Free squats,1.0,25.0,,05/01/25,Cardio
+Free squats,1.0,25.0,,05/01/25,Cardio
+Free squats,1.0,30.0,,05/01/25,Cardio
+Push Ups,1.0,12.0,,05/01/25,Cardio
+Push Ups,1.0,12.0,,05/01/25,Cardio
+Push Ups,1.0,12.0,,05/01/25,Cardio
+Push Ups,1.0,12.0,,06/01/25,Chest
+Push Ups,1.0,12.0,,06/01/25,Chest
+Push Ups,1.0,12.0,,06/01/25,Chest
+Chest press,10.0,10.0,,06/01/25,Chest
+Chest press,12.0,10.0,,06/01/25,Chest
+Chest press,15.0,10.0,,06/01/25,Chest
+Bench press,5.0,12.0,,06/01/25,Chest
+Bench press,10.0,10.0,,06/01/25,Chest
+Cable Crossover,5.0,15.0,,06/01/25,Chest
+Cable Crossover,6.5,15.0,,06/01/25,Chest
+Cable Crossover,9.0,15.0,,06/01/25,Chest
+Russian kettlebell swing,8.0,15.0,,06/01/25,Chest
+Russian kettlebell swing,12.0,15.0,,06/01/25,Chest
+Barbell squats,7.5,12.0,,15/01/25,Legs
+Barbell squats,10.0,12.0,,15/01/25,Legs
+Barbell squats,15.0,12.0,,15/01/25,Legs
+Leg press,15.0,12.0,,15/01/25,Legs
+Leg press,25.0,12.0,,15/01/25,Legs
+Leg press,30.0,12.0,,15/01/25,Legs
+Leg press,40.0,10.0,,15/01/25,Legs
+Leg extensions,20.0,12.0,,15/01/25,Legs
+Leg extensions,25.0,12.0,,15/01/25,Legs
+Leg extensions,35.0,10.0,,15/01/25,Legs
+Standing calf raise,1.0,30.0,,15/01/25,Legs
+Standing calf raise,1.0,30.0,,15/01/25,Legs
+Standing calf raise,1.0,30.0,,15/01/25,Legs
+Seated calf raise,5.0,12.0,,15/01/25,Legs
+Seated calf raise,7.5,12.0,,15/01/25,Legs
+Push Ups,1.0,12.0,,16/01/25,Bicep
+Push Ups,1.0,12.0,,16/01/25,Bicep
+Push Ups,1.0,12.0,,16/01/25,Bicep
+Dumbbell curl,5.0,15.0,,16/01/25,Bicep
+Dumbbell curl,7.5,15.0,,16/01/25,Bicep
+Dumbbell curl,10.0,15.0,,16/01/25,Bicep
+Barbell curl,5.0,10.0,,16/01/25,Bicep
+Barbell curl,10.0,10.0,,16/01/25,Bicep
+Hammer curl,5.0,10.0,,16/01/25,Bicep
+Hammer curl,7.5,12.0,,16/01/25,Bicep
+Hammer curl,10.0,10.0,,16/01/25,Bicep
+Russian kettlebell swing,8.0,10.0,,16/01/25,Bicep
+Russian kettlebell swing,12.0,10.0,,16/01/25,Bicep
+Russian kettlebell swing,16.0,8.0,,16/01/25,Bicep
+Push Ups,1.0,12.0,,17/01/25,Chest
+Push Ups,1.0,12.0,,17/01/25,Chest
+Push Ups,1.0,12.0,,17/01/25,Chest
+Chest press,10.0,10.0,,17/01/25,Chest
+Chest press,12.0,10.0,,17/01/25,Chest
+Chest press,15.0,10.0,,17/01/25,Chest
+Bench press,5.0,12.0,,17/01/25,Chest
+Bench press,10.0,10.0,,17/01/25,Chest
+Decline bench press,5.0,10.0,,17/01/25,Chest
+Decline bench press,7.5,10.0,,17/01/25,Chest
+Decline bench press,10.0,7.0,,17/01/25,Chest
+Cable Crossover,5.0,15.0,,17/01/25,Chest
+Cable Crossover,6.5,15.0,,17/01/25,Chest
+Cable Crossover,9.0,15.0,,17/01/25,Chest
+Jumping jacks,1.0,50.0,,18/01/25,Cardio
+Jumping jacks,1.0,50.0,,18/01/25,Cardio
+Jumping jacks,1.0,50.0,,18/01/25,Cardio
+Free squats,1.0,25.0,,18/01/25,Cardio
+Free squats,1.0,25.0,,18/01/25,Cardio
+Push Ups,1.0,12.0,,18/01/25,Cardio
+Push Ups,1.0,12.0,,18/01/25,Cardio
+Push Ups,1.0,12.0,,18/01/25,Cardio
+Reverse curls(forearms),5.0,12.0,,18/01/25,Cardio
+Reverse curls(forearms),7.5,10.0,,18/01/25,Cardio
+Reverse curls(forearms),10.0,10.0,,18/01/25,Cardio
+Push Ups,1.0,12.0,,06/02/25,Bicep
+Push Ups,1.0,12.0,,06/02/25,Bicep
+Push Ups,1.0,10.0,,06/02/25,Bicep
+Pull ups,1.0,15.0,,06/02/25,Bicep
+Pull ups,1.0,15.0,,06/02/25,Bicep
+Pull ups,1.0,15.0,,06/02/25,Bicep
+Dumbbell curl,5.0,15.0,,06/02/25,Bicep
+Dumbbell curl,7.5,15.0,,06/02/25,Bicep
+Dumbbell curl,10.0,15.0,,06/02/25,Bicep
+Barbell curl,5.0,10.0,,06/02/25,Bicep
+Barbell curl,10.0,10.0,,06/02/25,Bicep
+Barbell curl,15.0,10.0,,06/02/25,Bicep
+Hammer curl,5.0,10.0,,06/02/25,Bicep
+Hammer curl,7.5,12.0,,06/02/25,Bicep
+Hammer curl,10.0,10.0,,06/02/25,Bicep
+Concentration curls,5.0,15.0,,06/02/25,Bicep
+Concentration curls,7.5,15.0,,06/02/25,Bicep
+Concentration curls,10.0,5.0,,06/02/25,Bicep
+Reverse curls(forearms),5.0,12.0,,06/02/25,Bicep
+Reverse curls(forearms),7.5,10.0,,06/02/25,Bicep
+Reverse curls(forearms),10.0,10.0,,06/02/25,Bicep
+Leg press,15.0,12.0,,07/02/25,Legs
+Leg press,25.0,12.0,,07/02/25,Legs
+Leg press,30.0,12.0,,07/02/25,Legs
+Leg press,40.5,12.0,,07/02/25,Legs
+Leg extensions,20.0,12.0,,07/02/25,Legs
+Leg extensions,25.0,12.0,,07/02/25,Legs
+Leg extensions,35.0,10.0,,07/02/25,Legs
+Standing calf raise,1.0,30.0,,07/02/25,Legs
+Standing calf raise,1.0,30.0,,07/02/25,Legs
+Standing calf raise,1.0,33.0,,07/02/25,Legs
+Seated calf raise,5.0,12.0,,07/02/25,Legs
+Seated calf raise,7.5,12.0,,07/02/25,Legs
+Jumping jacks,1.0,50.0,,08/02/25,Cardio
+Jumping jacks,1.0,50.0,,08/02/25,Cardio
+Jumping jacks,1.0,50.0,,08/02/25,Cardio
+Free squats,1.0,25.0,,08/02/25,Cardio
+Free squats,1.0,25.0,,08/02/25,Cardio
+Free squats,1.0,25.0,,08/02/25,Cardio
+Push Ups,1.0,12.0,,08/02/25,Cardio
+Push Ups,1.0,12.0,,08/02/25,Cardio
+Push Ups,1.0,12.0,,08/02/25,Cardio
+Push Ups,1.0,12.0,,10/02/25,Chest
+Push Ups,1.0,12.0,,10/02/25,Chest
+Push Ups,1.0,12.0,,10/02/25,Chest
+Chest press,10.0,10.0,,10/02/25,Chest
+Chest press,12.0,10.0,,10/02/25,Chest
+Chest press,15.0,10.0,,10/02/25,Chest
+Bench press,5.0,12.0,,10/02/25,Chest
+Bench press,10.0,12.0,,10/02/25,Chest
+Decline bench press,5.0,10.0,,10/02/25,Chest
+Decline bench press,7.5,10.0,,10/02/25,Chest
+Decline bench press,10.0,7.0,,10/02/25,Chest
+Cable Crossover,5.0,15.0,,10/02/25,Chest
+Cable Crossover,6.5,15.0,,10/02/25,Chest
+Cable Crossover,9.0,15.0,,10/02/25,Chest
+Russian kettlebell swing,8.0,10.0,,10/02/25,Chest
+Russian kettlebell swing,12.0,10.0,,10/02/25,Chest
+Russian kettlebell swing,16.0,4.0,,10/02/25,Chest
+Hack squats,7.5,12.0,,11/02/25,Legs
+Hack squats,10.0,12.0,,11/02/25,Legs
+Hack squats,15.0,12.0,,11/02/25,Legs
+Leg press,15.0,12.0,,11/02/25,Legs
+Leg press,25.0,12.0,,11/02/25,Legs
+Leg press,30.0,12.0,,11/02/25,Legs
+Leg press,40.0,10.0,,11/02/25,Legs
+Leg extensions,20.0,12.0,,11/02/25,Legs
+Leg extensions,25.0,12.0,,11/02/25,Legs
+Leg extensions,35.0,10.0,,11/02/25,Legs
+Standing calf raise,1.0,30.0,,11/02/25,Legs
+Standing calf raise,1.0,30.0,,11/02/25,Legs
+Standing calf raise,1.0,30.0,,11/02/25,Legs
+Seated calf raise,5.0,12.0,,11/02/25,Legs
+Seated calf raise,7.5,12.0,,11/02/25,Legs
+Russian kettlebell swing,8.0,10.0,,11/02/25,Legs
+Russian kettlebell swing,12.0,10.0,,11/02/25,Legs
+Russian kettlebell swing,16.0,10.0,,11/02/25,Legs
+Jumping jacks,1.0,50.0,,12/02/25,Cardio
+Jumping jacks,1.0,50.0,,12/02/25,Cardio
+Jumping jacks,1.0,50.0,,12/02/25,Cardio
+Free squats,1.0,25.0,,12/02/25,Cardio
+Free squats,1.0,25.0,,12/02/25,Cardio
+Push Ups,1.0,12.0,,12/02/25,Cardio
+Push Ups,1.0,12.0,,12/02/25,Cardio
+Push Ups,1.0,12.0,,12/02/25,Cardio
+Reverse curls(forearms),5.0,12.0,,12/02/25,Cardio
+Reverse curls(forearms),7.5,10.0,,12/02/25,Cardio
+Reverse curls(forearms),10.0,10.0,,12/02/25,Cardio
+Push Ups,1.0,12.0,,17/02/25,Chest
+Push Ups,1.0,12.0,,17/02/25,Chest
+Push Ups,1.0,12.0,,17/02/25,Chest
+Chest press,10.0,10.0,,17/02/25,Chest
+Chest press,12.0,10.0,,17/02/25,Chest
+Chest press,15.0,10.0,,17/02/25,Chest
+Decline bench press,5.0,10.0,,17/02/25,Chest
+Decline bench press,7.5,10.0,,17/02/25,Chest
+Decline bench press,10.0,7.0,,17/02/25,Chest
+Barbell curl,5.0,10.0,,18/02/25,Bicep
+Barbell curl,10.0,10.0,,18/02/25,Bicep
+Reverse curls(forearms),5.0,12.0,,18/02/25,Bicep
+Reverse curls(forearms),7.5,10.0,,18/02/25,Bicep
+Reverse curls(forearms),10.0,10.0,,18/02/25,Bicep
+Dumbbell curl,5.0,15.0,,18/02/25,Bicep
+Dumbbell curl,7.5,15.0,,18/02/25,Bicep
+Dumbbell curl,10.0,15.0,,18/02/25,Bicep
+Concentration curls,5.0,15.0,,18/02/25,Bicep
+Concentration curls,7.5,15.0,,18/02/25,Bicep
+Concentration curls,10.0,13.0,,18/02/25,Bicep
+Hammer curl,5.0,12.0,,18/02/25,Bicep
+Hammer curl,7.5,12.0,,18/02/25,Bicep
+Hammer curl,10.0,12.0,,18/02/25,Bicep
+Pull Ups,1.0,20.0,,19/02/25,Back
+Pull Ups,1.0,20.0,,19/02/25,Back
+Pull Ups,1.0,10.0,,19/02/25,Back
+Lat pulldown,25.0,10.0,,19/02/25,Back
+Lat pulldown,35.0,10.0,,19/02/25,Back
+Lat pulldown,40.0,10.0,,19/02/25,Back
+Row machine,20.0,12.0,,19/02/25,Back
+Row machine,25.0,12.0,,19/02/25,Back
+Row machine,30.0,12.0,,19/02/25,Back
+Row machine,35.0,10.0,,19/02/25,Back
+Single arm dumbbell rows,5.0,10.0,,19/02/25,Back
+Single arm dumbbell rows,10.0,10.0,,19/02/25,Back
+Single arm dumbbell rows,15.0,10.0,,19/02/25,Back
+Reverse curls(forearms),5.0,12.0,,19/02/25,Back
+Reverse curls(forearms),7.5,10.0,,19/02/25,Back
+Reverse curls(forearms),10.0,10.0,,19/02/25,Back
+Push Ups,1.0,12.0,,25/02/25,Shoulders
+Push Ups,1.0,12.0,,25/02/25,Shoulders
+Face pulls,10.0,10.0,,25/02/25,Shoulders
+Face pulls,15.0,10.0,,25/02/25,Shoulders
+Face pulls,20.0,4.0,,25/02/25,Shoulders
+Shrugs,10.0,12.0,,25/02/25,Shoulders
+Shrugs,12.5,12.0,,25/02/25,Shoulders
+Shrugs,15.0,10.0,,25/02/25,Shoulders
+Reverse curls(forearms),5.0,12.0,,25/02/25,Shoulders
+Reverse curls(forearms),7.5,12.0,,25/02/25,Shoulders
+Reverse curls(forearms),10.0,10.0,,25/02/25,Shoulders
+Jumping jacks,1.0,50.0,,26/02/25,Cardio
+Jumping jacks,1.0,50.0,,26/02/25,Cardio
+Free squats,1.0,25.0,,26/02/25,Cardio
+Free squats,1.0,25.0,,26/02/25,Cardio
+Push Ups,1.0,12.0,,26/02/25,Cardio
+Push Ups,1.0,12.0,,26/02/25,Cardio
+Mountain raises,1.0,25.0,,26/02/25,Cardio
+Mountain raises,1.0,25.0,,26/02/25,Cardio
+Mountain raises,1.0,30.0,,26/02/25,Cardio
+Pull ups,1.0,15.0,,03/03/25,Bicep
+Pull ups,1.0,15.0,,03/03/25,Bicep
+Barbell curl,5.0,10.0,,03/03/25,Bicep
+Barbell curl,10.0,10.0,,03/03/25,Bicep
+Barbell curl,15.0,10.0,,03/03/25,Bicep
+Hammer curl,5.0,10.0,,03/03/25,Bicep
+Hammer curl,7.5,12.0,,03/03/25,Bicep
+Hammer curl,10.0,10.0,,03/03/25,Bicep
+Concentration curls,5.0,15.0,,03/03/25,Bicep
+Concentration curls,7.5,15.0,,03/03/25,Bicep
+Concentration curls,10.0,5.0,,03/03/25,Bicep
+Push Ups,1.0,12.0,,04/03/25,Shoulders
+Push Ups,1.0,12.0,,04/03/25,Shoulders
+Pull ups,1.0,15.0,,04/03/25,Shoulders
+Pull ups,1.0,8.0,,04/03/25,Shoulders
+Shoulder press,10.0,10.0,,04/03/25,Shoulders
+Shoulder press,15.0,10.0,,04/03/25,Shoulders
+Face pulls,10.0,10.0,,04/03/25,Shoulders
+Face pulls,15.0,10.0,,04/03/25,Shoulders
+Face pulls,20.0,10.0,,04/03/25,Shoulders
+Shrugs,10.0,12.0,,04/03/25,Shoulders
+Shrugs,12.5,12.0,,04/03/25,Shoulders
+Shrugs,15.0,12.0,,04/03/25,Shoulders
+Reverse curls(forearms),5.0,12.0,,04/03/25,Shoulders
+Reverse curls(forearms),7.5,12.0,,04/03/25,Shoulders
+Reverse curls(forearms),10.0,10.0,,04/03/25,Shoulders
+Pull Ups,1.0,20.0,,05/03/25,Back
+Pull Ups,1.0,20.0,,05/03/25,Back
+Pull Ups,1.0,10.0,,05/03/25,Back
+Lat pulldown,25.0,10.0,,05/03/25,Back
+Lat pulldown,35.0,10.0,,05/03/25,Back
+Lat pulldown,40.0,10.0,,05/03/25,Back
+Row machine,20.0,12.0,,05/03/25,Back
+Row machine,25.0,12.0,,05/03/25,Back
+Row machine,30.0,12.0,,05/03/25,Back
+Row machine,35.0,10.0,,05/03/25,Back
+Single arm dumbbell rows,5.0,10.0,,05/03/25,Back
+Single arm dumbbell rows,10.0,10.0,,05/03/25,Back
+Single arm dumbbell rows,15.0,10.0,,05/03/25,Back
+Jumping jacks,1.0,50.0,,08/03/25,Cardio
+Jumping jacks,1.0,50.0,,08/03/25,Cardio
+Jumping jacks,1.0,50.0,,08/03/25,Cardio
+Free squats,1.0,25.0,,08/03/25,Cardio
+Free squats,1.0,25.0,,08/03/25,Cardio
+Push Ups,1.0,12.0,,08/03/25,Cardio
+Push Ups,1.0,12.0,,08/03/25,Cardio
+Push Ups,1.0,12.0,,08/03/25,Cardio
+Sumo squats,7.5,12.0,,11/03/25,Legs
+Sumo squats,10.0,12.0,,11/03/25,Legs
+Sumo squats,15.0,12.0,,11/03/25,Legs
+Leg press,15.0,12.0,,11/03/25,Legs
+Leg press,25.0,12.0,,11/03/25,Legs
+Leg press,30.0,12.0,,11/03/25,Legs
+Leg press,40.0,10.0,,11/03/25,Legs
+Leg extensions,20.0,12.0,,11/03/25,Legs
+Leg extensions,25.0,12.0,,11/03/25,Legs
+Leg extensions,35.0,10.0,,11/03/25,Legs
+Standing calf raise,1.0,30.0,,11/03/25,Legs
+Standing calf raise,1.0,30.0,,11/03/25,Legs
+Standing calf raise,1.0,30.0,,11/03/25,Legs
+Push Ups,1.0,12.0,,12/03/25,Bicep
+Push Ups,1.0,12.0,,12/03/25,Bicep
+Push Ups,1.0,10.0,,12/03/25,Bicep
+Pull ups,1.0,15.0,,12/03/25,Bicep
+Pull ups,1.0,15.0,,12/03/25,Bicep
+Dumbbell curl,5.0,15.0,,12/03/25,Bicep
+Dumbbell curl,7.5,15.0,,12/03/25,Bicep
+Dumbbell curl,10.0,12.0,,12/03/25,Bicep
+Barbell curl,5.0,10.0,,12/03/25,Bicep
+Barbell curl,10.0,10.0,,12/03/25,Bicep
+Hammer curl,5.0,10.0,,12/03/25,Bicep
+Hammer curl,7.5,12.0,,12/03/25,Bicep
+Hammer curl,10.0,10.0,,12/03/25,Bicep
+Concentration curls,5.0,15.0,,12/03/25,Bicep
+Concentration curls,7.5,15.0,,12/03/25,Bicep
+Concentration curls,10.0,5.0,,12/03/25,Bicep
+Reverse curls(forearms),5.0,12.0,,12/03/25,Bicep
+Reverse curls(forearms),7.5,10.0,,12/03/25,Bicep
+Reverse curls(forearms),10.0,10.0,,12/03/25,Bicep
+Russian kettlebell swing,8.0,10.0,,12/03/25,Bicep
+Russian kettlebell swing,12.0,10.0,,12/03/25,Bicep
+Push Ups,1.0,12.0,,13/03/25,Shoulders
+Push Ups,1.0,12.0,,13/03/25,Shoulders
+Pull ups,1.0,15.0,,13/03/25,Shoulders
+Pull ups,1.0,15.0,,13/03/25,Shoulders
+Shoulder press,10.0,10.0,,13/03/25,Shoulders
+Shoulder press,15.0,10.0,,13/03/25,Shoulders
+Face pulls,10.0,10.0,,13/03/25,Shoulders
+Face pulls,15.0,10.0,,13/03/25,Shoulders
+Face pulls,20.0,4.0,,13/03/25,Shoulders
+Shrugs,10.0,12.0,,13/03/25,Shoulders
+Shrugs,12.5,12.0,,13/03/25,Shoulders
+Shrugs,15.0,10.0,,13/03/25,Shoulders
+Reverse curls(forearms),5.0,12.0,,13/03/25,Shoulders
+Reverse curls(forearms),7.5,12.0,,13/03/25,Shoulders
+Reverse curls(forearms),10.0,12.0,,13/03/25,Shoulders
+Push Ups,1.0,12.0,,15/03/25,Chest
+Push Ups,1.0,12.0,,15/03/25,Chest
+Push Ups,1.0,12.0,,15/03/25,Chest
+Chest press,10.0,10.0,,15/03/25,Chest
+Chest press,12.0,10.0,,15/03/25,Chest
+Chest press,15.0,10.0,,15/03/25,Chest
+Bench press,5.0,12.0,,15/03/25,Chest
+Bench press,10.0,10.0,,15/03/25,Chest
+Decline bench press,5.0,10.0,,15/03/25,Chest
+Decline bench press,7.5,10.0,,15/03/25,Chest
+Decline bench press,10.0,7.0,,15/03/25,Chest
+Cable Crossover,5.0,15.0,,15/03/25,Chest
+Cable Crossover,6.5,15.0,,15/03/25,Chest
+Cable Crossover,9.0,15.0,,15/03/25,Chest
+Push Ups,1.0,12.0,,26/03/25,Bicep
+Push Ups,1.0,12.0,,26/03/25,Bicep
+Push Ups,1.0,12.0,,26/03/25,Bicep
+Dumbbell curl,5.0,15.0,,26/03/25,Bicep
+Dumbbell curl,7.5,15.0,,26/03/25,Bicep
+Dumbbell curl,10.0,12.0,,26/03/25,Bicep
+Barbell curl,5.0,10.0,,26/03/25,Bicep
+Barbell curl,10.0,10.0,,26/03/25,Bicep
+Concentration curls,5.0,15.0,,26/03/25,Bicep
+Concentration curls,7.5,15.0,,26/03/25,Bicep
+Concentration curls,10.0,5.0,,26/03/25,Bicep
+Reverse curls(forearms),5.0,12.0,,26/03/25,Bicep
+Reverse curls(forearms),7.5,10.0,,26/03/25,Bicep
+Reverse curls(forearms),10.0,10.0,,26/03/25,Bicep
+Sumo squats,10.0,12.0,,31/03/25,Legs
+Sumo squats,15.0,12.0,,31/03/25,Legs
+Sumo squats,15.0,6.0,,31/03/25,Legs
+Leg press,15.0,12.0,,31/03/25,Legs
+Leg press,25.0,12.0,,31/03/25,Legs
+Leg press,30.0,12.0,,31/03/25,Legs
+Leg press,40.0,10.0,,31/03/25,Legs
+Leg extensions,20.0,12.0,,31/03/25,Legs
+Leg extensions,25.0,12.0,,31/03/25,Legs
+Leg extensions,35.0,10.0,,31/03/25,Legs
+Seated calf raise,5.0,20.0,,31/03/25,Legs
+Seated calf raise,7.5,10.0,,31/03/25,Legs
+Push Ups,1.0,12.0,,03/04/25,Bicep
+Push Ups,1.0,12.0,,03/04/25,Bicep
+Push Ups,1.0,10.0,,03/04/25,Bicep
+Dumbbell curl,5.0,20.0,,03/04/25,Bicep
+Dumbbell curl,7.5,20.0,,03/04/25,Bicep
+Dumbbell curl,10.0,10.0,,03/04/25,Bicep
+Barbell curl,5.0,10.0,,03/04/25,Bicep
+Barbell curl,10.0,10.0,,03/04/25,Bicep
+Barbell curl,15.0,10.0,,03/04/25,Bicep
+Hammer curl,5.0,10.0,,03/04/25,Bicep
+Hammer curl,7.5,12.0,,03/04/25,Bicep
+Hammer curl,10.0,12.0,,03/04/25,Bicep
+Concentration curls,5.0,15.0,,03/04/25,Bicep
+Concentration curls,7.5,12.0,,03/04/25,Bicep
+Concentration curls,10.0,10.0,,03/04/25,Bicep
+Reverse curls(forearms),5.0,12.0,,03/04/25,Bicep
+Reverse curls(forearms),7.5,10.0,,03/04/25,Bicep
+Reverse curls(forearms),10.0,10.0,,03/04/25,Bicep
+Push Ups,1.0,10.0,,04/04/25,Chest
+Push Ups,1.0,13.0,,04/04/25,Chest
+Push Ups,1.0,15.0,,04/04/25,Chest
+Chest press,10.0,10.0,,04/04/25,Chest
+Chest press,12.0,10.0,,04/04/25,Chest
+Chest press,15.5,10.0,,04/04/25,Chest
+Decline bench press,5.0,10.0,,04/04/25,Chest
+Decline bench press,7.5,10.0,,04/04/25,Chest
+Decline bench press,10.0,10.0,,04/04/25,Chest
+Cable Crossover,6.5,15.0,,04/04/25,Chest
+Cable Crossover,9.0,15.0,,04/04/25,Chest
+Cable Crossover,15.0,15.0,,04/04/25,Chest
