@@ -21,11 +21,6 @@ def aggregate_data(df, group_by_cols, agg_col, agg_func='mean', sort_by=None, as
         agg_df = agg_df.sort_values(by=sort_by, ascending=ascending)
     return agg_df
 
-def find_extremes(df, group_col, value_col, extreme='max'):
-    """Find max or min value in grouped data."""
-    grouped = df.groupby(group_col)[value_col].sum()
-    return grouped.idxmax() if extreme == 'max' else grouped.idxmin()
-
 def generic_plot(plot_type, data, x, y, hue=None, title=None, xlabel=None, ylabel=None, 
                  color=None, marker=None, grid=False, legend=False, figsize=(8, 5), 
                  rotation=None, pie_legend_title=None):
