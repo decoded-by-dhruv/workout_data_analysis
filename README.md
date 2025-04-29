@@ -7,6 +7,8 @@ I started logging my workouts to track my progress, but I quickly realized that 
 
 The analyses also serve as a case study in data-driven performance optimization, applicable to domains like health tech or business analytics.
 
+For the curious (and the nosy): [The Project Report](reports/Project_Report.pdf)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [What You’ll Find Here](#what-youll-find-here)
