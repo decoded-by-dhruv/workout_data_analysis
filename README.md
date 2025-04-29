@@ -80,6 +80,7 @@ workout_data_analysis
 |   |── workout_data_parser.py      # Main parsing script from TXT to CSV
 ├── reports/
 │   ├── visuals/                    # Saved plots (bar, pie, line, scatter)
+|   ├── Project_Report.pdf          # Project report file
 ├── LICENSE
 └── README.md                       # You’re reading it!
 ```
